@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 TELEGRAM_TOKEN = "8140549776:AAGNFQ32trak1fkCuBxmW5p99rsci3HvC9k"
 GOOGLE_SHEET_ID = "1sSKRIPV-d4JLsQ3UL5BO5Xi9UwwFB5DRJumf2KgvKA0"
-JSON_PATH = "droporders-288a5dfd161e.json"
+JSON_PATH = "droporders-8bf97332068b.json"
 GOOGLE_DRIVE_FOLDER_ID = "1oncIzcRaMTzdO07gmXJKcn8cG8MdqHch"
 ALLOWED_THREAD_ID = 2
 
