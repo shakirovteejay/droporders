@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "droporders",
+  "private_key_id": "8bf97332068bae29dde9232c930c6c2967bc3272",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4MPQBoyUFXRDS\nw0seysh2NBsSY315XvWzP+zMxbbqmXoJynCs/mWqeJuLW180miPrjw3/3WTYfpxV\ngfpCjmYhc+qbDyOuq3mE2yi1DkLd1ekQ0KuzTg6xgcGCG7zjFNolJoq7WB1LZIen\n/+TIheIBpSL2tdiIgQfNM35SF/lI9S3hCyygsF7v9zgzY7UlLnrqeOwbA7u3WXqe\ntZu12+rj1sciASIx0azPbPXExDcsIWS2n3Au7yuzTmJXQI5kjchm+Ad/yUmIEZbx\nsxeorOE7GgffXMdKkv6vaxVPIAMBK0YKhsEPJt5mfZhKYCMbPdQ5tw8bvao6RyHy\n2OHmbuBdAgMBAAECggEAEJWv0tnqwnHfyup0wCAILsSAT4aPzLblLq+p1cJTtwn8\nuBb3UExTwSa88q5WgzkB1Pr7irdXljrIPtbGPuntfkOeszmIv/iGp5TINI1FLg5N\nvwra+vkjT45cayeuOVAuWDwBL98+PASgRls/MWMEt5sz67zx81CS8EIbtK6d7pil\necfC5ly0bmtFs92EX+8RPX2zPagDAaHQNmzJA2nR4Xsg5vjXWkiCEZb/4NobQfpn\nB5b9IHP23Nq3aWjt6YcSLWdm7sJ9fcTBnhS6J9JuLjmIn5NZ/vSYB+IqzN3weGbz\ngCO77uR5GGd4g1WmB6RzTT7F/mLT/zQ6r1vwmnARQQKBgQD6UA8jHbxCKmmQfFyR\nqIOHwpW1Yk1aCsdTRnK0U4c5VPlkpO7qN14Wl2DCtFQ8v07kNfokrkELfzfGrnbX\niiDMcxBDrEm/B32UCnx4T/CEapH1y9t3aosEdB8ohsJXXm7iu1Sla3RcNuILL9XM\nzHV2eqlHdoS24jjxFQrNF4+MbQKBgQC8YEyRo/D/cJR1/h9K0LlNR8a5HSHEjue1\n7sFYQbbmFMk9FqgBGBZ5BK4KB+RIKa5SFWdFMWqb5RBOWKVNafqkCgxzsRPa1dt9\nKXyhqlsvicl/e2hBalowF4pz6ujexND0l+UDnyr7cgBrRhbhbDfyxz/2iPHfmoHw\nrZ+Tr3pNsQKBgQDz26ETnfl1IGqdl3p7cQdK8Jf3EKC5Ev0jNOO0qBd6FD2u/ju/\ntFcWfT2IEjRqxhnunGNo7tZxg+vrxLYEwA26AHMc6rEhyQNfgWPHtmFkL4qpQoQ5\n73Ml0Jc2XSriAR7YBpatXWUMHW/UZDLPBXV+Cnv2IhGjNfsxa0WNjuGLdQKBgFae\nVTb20l8yriFfW5Y0SbB+W6NNAPT33RXsFh12Ahrj3fDoFRKDt/mnrDtSi6ae+9gk\nnVrUsTfD6W6NFl11aNm7ASTFfOK4SXfQ9s0Dn3BJhEzJOxQxSg0pFfHdR3z/tTFz\nEsxKiSIbtpOdI/I9p7BL7F55c/akfjFkNKddHfjRAoGBAJfezadCEF9TvX4rruuS\n/6zheRRP07ovQpYxSJYv1pXN03dk6dnWqTjBPqK3/FAm0fyZCexJLZHFuo9dPCFJ\nvDABfRgLU+DlgTbOhHLFiFb1hk191d9oHAZMG0iH8ryBEKFE41aSJhLvwymTEJlV\nKSPsmSzCN3PmrDuls8ka2973\n-----END PRIVATE KEY-----\n",
+  "client_email": "dropshopsheetsbot@droporders.iam.gserviceaccount.com",
+  "client_id": "108029920282191883680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dropshopsheetsbot%40droporders.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
